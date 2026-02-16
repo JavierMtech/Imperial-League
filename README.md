@@ -1,6 +1,6 @@
 # Imperial League
 
-# Simulación de la Imperial League
+## Descripción
 Una simulación de una compleja liga de fútbol utilizando Python. Permite simular partidos de división, partidos interdivisionales y una postemporada con desempates y penales, generando resultados en Excel con tablas finales y registros de partidos.
 
 ## Contenido del repositorio
